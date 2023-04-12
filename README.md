@@ -17,6 +17,7 @@ DHT11은 온도와 습도를 측정할 수 있는 센서입니다.<br/>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/130550405/231492370-56f394e5-60eb-4138-8113-65c485773c79.jpg">
 </p>
+<br/>
 
 ### GPIO 세팅
 <p align="center">
@@ -24,9 +25,11 @@ DHT11은 온도와 습도를 측정할 수 있는 센서입니다.<br/>
 </p>
 DHT11 - Vcc: 1_pin 3.3V / Data: 7_pin (GPIO_4) / Ground: 6_pin<br/>
 LED - 11_pin (GPIO_17) / Ground: 14_pin
+<br/>
 
 ### 사용한 SW요소들
 Rasberry Pi OS Legacy, 파이썬 3.7 버전, 파이썬 관련 모듈(time / RPi.GPIO / Adafruit_DHT / 라즈베리 파이4의 칩셋명 BCM2711 추가)
+<br/>
 
 ### 구현 영상
 <p align="center">
