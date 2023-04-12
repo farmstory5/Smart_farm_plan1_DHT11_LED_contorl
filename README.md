@@ -3,11 +3,6 @@
 ## 구성원: 오상우, 윤현호, 박세린, 이병현, 권용만
 DHT11+LED control
 
-### 전체 구현 사진
-<p align="center">
-<img src="https://user-images.githubusercontent.com/130550405/231494597-672900d9-cf49-4a55-84aa-42b22413bb42.jpg">
-</p>
-
 ### 사용한 재료들
 라즈베리파이4 B MPU 소형 컴퓨터
 <p align="center">
@@ -21,3 +16,9 @@ DHT11+LED control
 
 ### 사용한 SW요소들
 Rasberry Pi OS Legacy, 파이썬 3.7 버전, 파이썬 관련 모듈(time / RPi.GPIO / Adafruit_DHT / 라즈베리 파이4의 칩셋명 BCM2711 추가)
+
+### 구현 영상
+<p align="center">
+<img src="https://user-images.githubusercontent.com/130550405/231494597-672900d9-cf49-4a55-84aa-42b22413bb42.jpg">
+</p>
+https://www.youtube.com/watch?v=QqqlsFfRtMo
