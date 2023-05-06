@@ -8,7 +8,7 @@ DHT11은 온도와 습도를 측정할 수 있는 센서입니다.<br/>
 이 센서로 값을 측정할 때 표시 방법으로는 LED를 점멸하는 것으로 표현하였습니다. 
 
 ### 사용한 재료들
-라즈베리파이4 B MPU 소형 컴퓨터
+라즈베리파이4 B 임베디드시스템
 <p align="center">
 <img src="https://user-images.githubusercontent.com/130550405/231491922-5f9f4808-c4a5-42e8-a3dc-6370f3bea3c4.jpg">
 </p>
